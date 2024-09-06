@@ -1,7 +1,3 @@
-Here’s the professional and technical version of the README, with clearer structure and explanation:
-
----
-
 ## How to Run the API
 
 1. Navigate to the `api` folder:
